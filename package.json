@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @abdulrafaywaqar - 👀 I’m interested in Magento Development - 🌱 I’m currently learning Magento Customization - 💞️ I’m looking to collaborate on Magento2 Custom Module Development - 📫 How to reach me abdulrafaywaqar@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulrafaywaqar/abdulrafaywaqar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulrafaywaqar/abdulrafaywaqar/issues"
+  },
+  "homepage": "https://github.com/abdulrafaywaqar/abdulrafaywaqar#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
